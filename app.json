@@ -1,0 +1,29 @@
+{
+	"expo": {
+		"name": "react-native-boilerplate",
+		"slug": "react-native-boilerplate",
+		"version": "1.0.0",
+		"orientation": "portrait",
+		"icon": "./assets/images/favicon-light.jpg",
+		"userInterfaceStyle": "light",
+		"newArchEnabled": true,
+		"splash": {
+			"image": "./assets/images/icon.png",
+			"resizeMode": "contain",
+			"backgroundColor": "#ffffff"
+		},
+		"ios": {
+			"supportsTablet": true
+		},
+		"android": {
+			"adaptiveIcon": {
+				"foregroundImage": "./assets/images/icon.png",
+				"backgroundColor": "#ffffff"
+			},
+			"edgeToEdgeEnabled": true
+		},
+		"web": {
+			"favicon": "./assets/images/favicon.png"
+		}
+	}
+}
