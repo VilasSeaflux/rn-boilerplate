@@ -4,6 +4,7 @@ const PAGES = {
 	ABOUT: "About",
 	PROFILE: "Profile",
 	EXPLORE: "Explore",
+	SPLASH: "Splash",
 };
 
 export default PAGES;
